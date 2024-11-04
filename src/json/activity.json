@@ -1,0 +1,130 @@
+[
+    {
+        "Activity": "Conduct High-Level Change Impact Assessment (L0)",
+        "score": 5
+    },
+    {
+        "Activity": "Develop a pre-liminary vision",
+        "score": 5
+    },
+    {
+        "Activity": "Identify key leaders",
+        "score": 5
+    },
+    {
+        "Activity": "Meet with each key leader individually",
+        "score": 3.2
+    },
+    {
+        "Activity": "Plan visioning session/off-site with leaders",
+        "score": 2.4
+    },
+    {
+        "Activity": "Host visioning session and offsite with leaders & Align on common vision for change",
+        "score": 3.2
+    },
+    {
+        "Activity": "Identify additional key leaders",
+        "score": 2.1
+    },
+    {
+        "Activity": "Conduct stakeholder analysis & segmentation",
+        "score": 4.5
+    },
+    {
+        "Activity": "Develop leader talking points",
+        "score": 2.1
+    },
+    {
+        "Activity": "Hold information session with people managers of most impacted",
+        "score": 3.6
+    },
+    {
+        "Activity": "Announce chang via email",
+        "score": 4
+    },
+    {
+        "Activity": "Host townhall",
+        "score": 1.2
+    },
+    {
+        "Activity": "Present at business unit all-hands and townhalls",
+        "score": 1.2
+    },
+    {
+        "Activity": "Host change impact discussion workshop",
+        "score": 3.2
+    },
+    {
+        "Activity": "Log change impacts",
+        "score": 5
+    },
+    {
+        "Activity": "Validate impacts with key area owners",
+        "score": 5
+    },
+    {
+        "Activity": "Summerize and socialize impact with leaders",
+        "score": 2.5
+    },
+    {
+        "Activity": "Provide routine (monthly) updates to steering committee",
+        "score": 4
+    },
+    {
+        "Activity": "Provide routine (monthly) updates to super users, their managers, and change agents",
+        "score": 4
+    },
+    {
+        "Activity": "Update change impacts log routinely",
+        "score": 4
+    },
+    {
+        "Activity": "Host super and change agent information session",
+        "score": 4
+    },
+    {
+        "Activity": "Host training",
+        "score": 5
+    },
+    {
+        "Activity": "Update steering committee and sponsors",
+        "score": 5
+    },
+    {
+        "Activity": "Send 45 days to go-live message + invite to information session",
+        "score": 0.9
+    },
+    {
+        "Activity": "Host information session",
+        "score": 2
+    },
+    {
+        "Activity": "Send 30-days to go-live message",
+        "score": 2.8
+    },
+    {
+        "Activity": "Send 15-days to go-live message",
+        "score": 4.5
+    },
+    {
+        "Activity": "Update steering committee and sponsors",
+        "score": 5
+    },
+    {
+        "Activity": "Send 5 days to go-live message",
+        "score": 5
+    },
+    {
+        "Activity": "Send 3-days to go-live message",
+        "score": 5
+    },
+    {
+        "Activity": "Send 1-day to go-live message",
+        "score": 5
+    },
+    {
+        "Activity": "Send go-live message announcement",
+        "score": 5
+    }
+]
